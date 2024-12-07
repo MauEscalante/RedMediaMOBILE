@@ -1,0 +1,79 @@
+apply plugin: "com.android.application"
+apply plugin: "org.jetbrains.kotlin.android"
+apply plugin: "com.facebook.react"
+
+// React Native Configuration
+react {
+    autolinkLibrariesWithApp()
+}
+
+// ProGuard Configuration
+def enableProguardInReleaseBuilds = false
+
+// JavaScriptCore (JSC) or Hermes Configuration
+def jscFlavor = 'org.webkit:android-jsc:+'
+
+android {
+    namespace "com.redmedia"
+    ndkVersion rootProject.ext.ndkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
+    compileSdk rootProject.ext.compileSdkVersion
+
+    defaultConfig {
+        applicationId "com.redmedia"
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+        versionCode 1
+        versionName "1.0"
+    }
+
+    signingConfigs {
+        debug {
+            storeFile file('debug.keystore')
+            storePassword 'android'
+            keyAlias 'androiddebugkey'
+            keyPassword 'android'
+        }
+    }
+
+    buildTypes {
+        debug {
+            signingConfig signingConfigs.debug
+        }
+        release {
+            signingConfig signingConfigs.debug
+            minifyEnabled enableProguardInReleaseBuilds
+            proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
+        }
+    }
+
+    // Resolución de conflictos de dependencias
+    configurations.all {
+        resolutionStrategy {
+            force 'androidx.appcompat:appcompat:1.6.1'
+            force 'androidx.core:core:1.9.0'
+        }
+    }
+}
+
+dependencies {
+    // React Native Core
+    implementation("com.facebook.react:react-android")
+    implementation project(':react-native-splash-screen')
+
+    // Hermes or JSC Runtime
+    if (hermesEnabled.toBoolean()) {
+        implementation("com.facebook.react:hermes-android")
+    } else {
+        implementation jscFlavor
+    }
+
+    // Dependencias adicionales para evitar conflictos
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'androidx.core:core:1.9.0'
+
+    //Dependencia para Locacion
+    implementation 'com.google.android.gms:play-services-location:21.0.1'
+}
+
+apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"

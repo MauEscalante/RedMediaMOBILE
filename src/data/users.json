@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "name": "Carlos Diaz",
+    "username": "carlos",
+    "avatar": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "coverImage": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Amante de la moda y el estilo.",
+    "level": 4,
+    "postsCount": 2,
+    "followers": 1500,
+    "following": 200,
+    "posts": [
+      {
+        "id": 2,
+        "title": "Estilando mi camisa un rato",
+        "image": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=400"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Maria Rodriguez",
+    "username": "@maria",
+    "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
+    "coverImage": "https://example.com/maria-cover.jpg",
+    "bio": "Viajera apasionada y fotógrafa.",
+    "level": 3,
+    "postsCount": 3,
+    "followers": 2100,
+    "following": 350,
+    "posts": [
+      {
+        "id": 3,
+        "title": "Viajando por el mundo",
+        "image": "https://images.pexels.com/photos/34950/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Laura Gomez",
+    "username": "@laura",
+    "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+    "coverImage": "https://example.com/laura-cover.jpg",
+    "bio": "Amante de la playa y el sol.",
+    "level": 5,
+    "postsCount": 2,
+    "followers": 5000,
+    "following": 300,
+    "posts": [
+      {
+        "id": 8,
+        "title": "La mejor playa de la ciudad",
+        "image": "https://images.pexels.com/photos/1032650/pexels-photo-1032650.jpeg?auto=compress&cs=tinysrgb&w=400"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Mario Rossi",
+    "username": "@mario",
+    "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+    "coverImage": "https://example.com/mario-cover.jpg",
+    "bio": "Explorador urbano y amante de la historia.",
+    "level": 2,
+    "postsCount": 2,
+    "followers": 1200,
+    "following": 150,
+    "posts": [
+      {
+        "id": 5,
+        "title": "Walking around the city",
+        "image": "https://images.pexels.com/photos/247932/pexels-photo-247932.jpeg?auto=compress&cs=tinysrgb&w=400"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Camila Perez",
+    "username": "@camila",
+    "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+    "coverImage": "https://example.com/camila-cover.jpg",
+    "bio": "Apasionada por la astronomía y la naturaleza.",
+    "level": 4,
+    "postsCount": 2,
+    "followers": 980,
+    "following": 180,
+    "posts": [
+      {
+        "id": 6,
+        "title": "Viendo las estrellas",
+        "image": "https://images.pexels.com/photos/1567069/pexels-photo-1567069.jpeg?auto=compress&cs=tinysrgb&w=400"
+      }
+    ]
+  }
+]

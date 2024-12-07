@@ -1,0 +1,283 @@
+{
+    "name": "John",
+    "lastName": "Doe",
+    "username": "@john_doe",
+    "bio": "Desarrollador de software y apasionado de la tecnología.",
+    "level": 5,
+    "postsCount": 123,
+    "followers": 2000,
+    "following": 3500,
+    "notificaciones": [{
+        "id": "1",
+        "type": "Comment",
+        "user": "@maria",
+        "text": "commented: 'Que buena foto!'",
+        "time": "9:05 pm",
+        "post": {
+            "id": "2",
+            "image": [
+              "https://randomuser.me/api/portraits/men/10.jpg",
+              "https://randomuser.me/api/portraits/men/10.jpg",
+              "https://randomuser.me/api/portraits/men/10.jpg"
+            ],
+            "title": "Estilando mi camisa un rato",
+            "user":"John Doe",
+            "userAvatar": "https://randomuser.me/api/portraits/men/10.jpg",
+            "location": "Buenos Aires, Argentina",
+            "sold": false,
+            "likes": 1500,
+            "comments": [
+              {
+                "username": "juan1989",
+                "comment": "Great style!"
+              },
+              {
+                "username": "laura_b",
+                "comment": "I love it!"
+              },
+              {
+                "username": "fashion_queen",
+                "comment": "Where did you get that shirt?"
+              },
+              {
+                "username": "lucas_r",
+                "comment": "Looking sharp!"
+              }
+            ]
+          }
+      },{
+        "id": "2",
+        "type":"Trending",
+        "user": "carlos",
+        "text": "Like on your post",
+        "time": "9:10 pm",
+        "post": {
+            "id": "2",
+            "image": [
+              "https://randomuser.me/api/portraits/men/10.jpg",
+              "https://randomuser.me/api/portraits/men/10.jpg",
+              "https://randomuser.me/api/portraits/men/10.jpg"
+            ],
+            "title": "Estilando mi camisa un rato",
+            "user":"John Doe",
+            "userAvatar": "https://randomuser.me/api/portraits/men/10.jpg",
+            "location": "Buenos Aires, Argentina",
+            "sold": false,
+            "likes": 1500,
+            "comments": [
+              {
+                "username": "juan1989",
+                "comment": "Great style!"
+              },
+              {
+                "username": "laura_b",
+                "comment": "I love it!"
+              },
+              {
+                "username": "fashion_queen",
+                "comment": "Where did you get that shirt?"
+              },
+              {
+                "username": "lucas_r",
+                "comment": "Looking sharp!"
+              }
+            ]
+          }
+      },
+      {
+        "id": "3",
+        "type":"Followed",
+        "user": "@mario",
+        "text": "started following you",
+        "time": "9:55 pm",
+        "post": {
+            "id": "2",
+            "image": [
+              "https://randomuser.me/api/portraits/men/10.jpg",
+              "https://randomuser.me/api/portraits/men/10.jpg",
+              "https://randomuser.me/api/portraits/men/10.jpg"
+            ],
+            "title": "Estilando mi camisa un rato",
+            "user":"John Doe",
+            "userAvatar": "https://randomuser.me/api/portraits/men/10.jpg",
+            "location": "Buenos Aires, Argentina",
+            "sold": false,
+            "likes": 1500,
+            "comments": [
+              {
+                "username": "juan1989",
+                "comment": "Great style!"
+              },
+              {
+                "username": "laura_b",
+                "comment": "I love it!"
+              },
+              {
+                "username": "fashion_queen",
+                "comment": "Where did you get that shirt?"
+              },
+              {
+                "username": "lucas_r",
+                "comment": "Looking sharp!"
+              }
+            ]
+          }
+      },
+      {
+        "id": "4",
+        "type":"Comment",
+        "user": "@camila",
+        "text": "commented: 'Que buenaa!'",
+        "time": "Yesterday",
+        "post": {
+            "id": "2",
+            "image": [
+              "https://randomuser.me/api/portraits/men/10.jpg",
+              "https://randomuser.me/api/portraits/men/10.jpg",
+              "https://randomuser.me/api/portraits/men/10.jpg"
+            ],
+            "title": "Estilando mi camisa un rato",
+            "user":"John Doe",
+            "userAvatar": "https://randomuser.me/api/portraits/men/10.jpg",
+            "location": "Buenos Aires, Argentina",
+            "sold": false,
+            "likes": 1500,
+            "comments": [
+              {
+                "username": "juan1989",
+                "comment": "Great style!"
+              },
+              {
+                "username": "laura_b",
+                "comment": "I love it!"
+              },
+              {
+                "username": "fashion_queen",
+                "comment": "Where did you get that shirt?"
+              },
+              {
+                "username": "lucas_r",
+                "comment": "Looking sharp!"
+              }
+            ]
+          }
+      },
+      {
+        "id": "5",
+        "type":"Comment",
+        "user": "@laura",
+        "text": "commented: 'Que buena foto!'",
+        "time": "Yesterday",
+        "post": {
+            "id": "2",
+            "image": [
+              "https://randomuser.me/api/portraits/men/10.jpg",
+              "https://randomuser.me/api/portraits/men/10.jpg",
+              "https://randomuser.me/api/portraits/men/10.jpg"
+            ],
+            "title": "Estilando mi camisa un rato",
+            "user":"John Doe",
+            "userAvatar": "https://randomuser.me/api/portraits/men/10.jpg",
+            "location": "Buenos Aires, Argentina",
+            "sold": false,
+            "likes": 1500,
+            "comments": [
+              {
+                "username": "juan1989",
+                "comment": "Great style!"
+              },
+              {
+                "username": "laura_b",
+                "comment": "I love it!"
+              },
+              {
+                "username": "fashion_queen",
+                "comment": "Where did you get that shirt?"
+              },
+              {
+                "username": "lucas_r",
+                "comment": "Looking sharp!"
+              }
+            ]
+          }
+      },{
+        "id": "6",
+        "type":"Trending",
+        "user": "carlos",
+        "text": "Like on your post",
+        "time": "Last week",
+        "post": {
+            "id": "2",
+            "image": [
+              "https://randomuser.me/api/portraits/men/10.jpg",
+              "https://randomuser.me/api/portraits/men/10.jpg",
+              "https://randomuser.me/api/portraits/men/10.jpg"
+            ],
+            "title": "Estilando mi camisa un rato",
+            "user":"John Doe",
+            "userAvatar": "https://randomuser.me/api/portraits/men/10.jpg",
+            "location": "Buenos Aires, Argentina",
+            "sold": false,
+            "likes": 1500,
+            "comments": [
+              {
+                "username": "juan1989",
+                "comment": "Great style!"
+              },
+              {
+                "username": "laura_b",
+                "comment": "I love it!"
+              },
+              {
+                "username": "fashion_queen",
+                "comment": "Where did you get that shirt?"
+              },
+              {
+                "username": "lucas_r",
+                "comment": "Looking sharp!"
+              }
+            ]
+          }
+      },
+      {
+        "id": "7",
+        "type":"Followed",
+        "user": "@mario",
+        "text": "started following you",
+        "time": "Last week",
+        "post": {
+            "id": "2",
+            "image": [
+              "https://randomuser.me/api/portraits/men/10.jpg",
+              "https://randomuser.me/api/portraits/men/10.jpg",
+              "https://randomuser.me/api/portraits/men/10.jpg"
+            ],
+            "title": "Estilando mi camisa un rato",
+            "user":"John Doe",
+            "userAvatar": "https://randomuser.me/api/portraits/men/10.jpg",
+            "location": "Buenos Aires, Argentina",
+            "sold": false,
+            "likes": 1500,
+            "comments": [
+              {
+                "username": "juan1989",
+                "comment": "Great style!"
+              },
+              {
+                "username": "laura_b",
+                "comment": "I love it!"
+              },
+              {
+                "username": "fashion_queen",
+                "comment": "Where did you get that shirt?"
+              },
+              {
+                "username": "lucas_r",
+                "comment": "Looking sharp!"
+              }
+            ]
+          }
+      }     
+    ]
+  
+}

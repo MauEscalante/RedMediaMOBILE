@@ -1,0 +1,71 @@
+[
+    {
+      "id": "1",
+      "type":"Comment",
+      "user": "@maria",
+      "text": "commented: 'Que buena foto!'",
+      "time" : "9:05 pm"
+    },
+    {
+      "id": "2",
+      "type":"Trending",
+      "user": "carlos",
+      "text": "Like on your post",
+      "time": "9:10 pm"
+    },
+    {
+      "id": "3",
+      "type":"Followed",
+      "user": "@mario",
+      "text": "started following you",
+      "time": "9:55 pm"
+    },
+    {
+      "id": "4",
+      "type":"Comment",
+      "user": "@camila",
+      "text": "commented: 'Que buenaa!'",
+      "time": "Yesterday"
+    },
+    {
+      "id": "5",
+      "type":"Comment",
+      "user": "@laura",
+      "text": "commented: 'Que buena foto!'",
+      "time": "Yesterday"
+    },{
+      "id": "6",
+      "type":"Trending",
+      "user": "carlos",
+      "text": "Like on your post",
+      "time": "Last week"
+    },
+    {
+      "id": "7",
+      "type":"Followed",
+      "user": "@mario",
+      "text": "started following you",
+      "time": "Last week"
+    },
+    {
+      "id": "8",
+      "type":"Comment",
+      "user": "@camila",
+      "text": "commented: 'Que buenaa!'",
+      "time": "Last week"
+    },
+    {
+      "id": "9",
+      "type":"Comment",
+      "user": "@laura",
+      "text": "commented: 'Que buena foto!'",
+      "time": "two week ago"
+    },
+    {
+      "id": "10",
+      "type":"Comment",
+      "user": "@maria",
+      "text": "commented: 'foton!'",
+      "time": "two weeks ago"
+    }
+  ]

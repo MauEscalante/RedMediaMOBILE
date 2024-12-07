@@ -1,0 +1,349 @@
+[
+  {
+    "id": "2",
+    "image": [
+      "https://randomuser.me/api/portraits/men/10.jpg",
+      "https://randomuser.me/api/portraits/men/10.jpg",
+      "https://randomuser.me/api/portraits/men/10.jpg"
+    ],
+    "title": "Estilando mi camisa un rato",
+    "user":"John Doe",
+    "userAvatar": "https://randomuser.me/api/portraits/men/10.jpg",
+    "location": "Buenos Aires, Argentina",
+    "sold": false,
+    "likes": 1500,
+    "comments": [
+      {
+        "username": "juan1989",
+        "comment": "Great style!"
+      },
+      {
+        "username": "laura_b",
+        "comment": "I love it!"
+      },
+      {
+        "username": "fashion_queen",
+        "comment": "Where did you get that shirt?"
+      },
+      {
+        "username": "lucas_r",
+        "comment": "Looking sharp!"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "image": [
+      "https://images.pexels.com/photos/34950/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/34950/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/34950/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/34950/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "title": "Viajando por el mundo",
+    "user":"John Doe",
+    "userAvatar": "https://randomuser.me/api/portraits/women/3.jpg",
+    "location": "Madrid, Spain",
+    "sold": false,
+    "likes": 2100,
+    "comments": [
+      {
+        "username": "traveler101",
+        "comment": "Amazing views!"
+      },
+      {
+        "username": "explorer98",
+        "comment": "I need to visit this place!"
+      },
+      {
+        "username": "adventure_junkie",
+        "comment": "Best trip ever!"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "image": [
+      "https://images.pexels.com/photos/247932/pexels-photo-247932.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/247932/pexels-photo-247932.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/247932/pexels-photo-247932.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "title": "Walking around the city",
+    "user":"John Doe",
+    "userAvatar": "https://randomuser.me/api/portraits/men/5.jpg",
+    "location": "Rome, Italy",
+    "sold": false,
+    "likes": 1200,
+    "comments": [
+      {
+        "username": "johnny_walker",
+        "comment": "Beautiful city!"
+      },
+      {
+        "username": "city_explorer",
+        "comment": "Rome is incredible!"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "image": [
+      "https://images.pexels.com/photos/1567069/pexels-photo-1567069.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1567069/pexels-photo-1567069.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1567069/pexels-photo-1567069.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "title": "Viendo las estrellas",
+    "user":"John Doe",
+    "userAvatar": "https://randomuser.me/api/portraits/women/6.jpg",
+    "location": "Santiago, Chile",
+    "sold": false,
+    "likes": 980,
+    "comments": [
+      {
+        "username": "stargazer",
+        "comment": "Incredible view!"
+      },
+      {
+        "username": "cosmos_lover",
+        "comment": "The night sky is so clear!"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "image": [
+      "https://images.pexels.com/photos/1032650/pexels-photo-1032650.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1032650/pexels-photo-1032650.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1032650/pexels-photo-1032650.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1032650/pexels-photo-1032650.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "title": "La mejor playa de la ciudad",
+    "user":"John Doe",
+    "userAvatar": "https://randomuser.me/api/portraits/women/8.jpg",
+    "location": "Miami, USA",
+    "sold": false,
+    "likes": 5000,
+    "comments": [
+      {
+        "username": "beachlover",
+        "comment": "What a beautiful beach!"
+      },
+      {
+        "username": "surfergirl",
+        "comment": "I love this spot!"
+      },
+      {
+        "username": "ocean_vibes",
+        "comment": "Best place to relax!"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "image": [
+      "https://randomuser.me/api/portraits/men/10.jpg",
+      "https://randomuser.me/api/portraits/men/10.jpg",
+      "https://randomuser.me/api/portraits/men/10.jpg"
+    ],
+    "title": "Estilando mi camisa un rato",
+   "user":"John Doe",
+    "userAvatar": "https://randomuser.me/api/portraits/men/10.jpg",
+    "location": "Buenos Aires, Argentina",
+    "sold": false,
+    "likes": 1500,
+    "comments": [
+      {
+        "username": "juan1989",
+        "comment": "Great style!"
+      },
+      {
+        "username": "laura_b",
+        "comment": "I love it!"
+      },
+      {
+        "username": "fashion_queen",
+        "comment": "Where did you get that shirt?"
+      },
+      {
+        "username": "lucas_r",
+        "comment": "Looking sharp!"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "image": [
+      "https://randomuser.me/api/portraits/men/10.jpg",
+      "https://randomuser.me/api/portraits/men/10.jpg",
+      "https://randomuser.me/api/portraits/men/10.jpg"
+    ],
+    "title": "Estilando mi camisa un rato",
+   "user":"John Doe",
+    "userAvatar": "https://randomuser.me/api/portraits/men/10.jpg",
+    "location": "Buenos Aires, Argentina",
+    "sold": false,
+    "likes": 1500,
+    "comments": [
+      {
+        "username": "juan1989",
+        "comment": "Great style!"
+      },
+      {
+        "username": "laura_b",
+        "comment": "I love it!"
+      },
+      {
+        "username": "fashion_queen",
+        "comment": "Where did you get that shirt?"
+      },
+      {
+        "username": "lucas_r",
+        "comment": "Looking sharp!"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "image": [
+      "https://randomuser.me/api/portraits/men/10.jpg",
+      "https://randomuser.me/api/portraits/men/10.jpg",
+      "https://randomuser.me/api/portraits/men/10.jpg"
+    ],
+    "title": "Carlos en la playa",
+   "user":"John Doe",
+    "userAvatar": "https://randomuser.me/api/portraits/men/10.jpg",
+    "location": "Mar del Plata, Argentina",
+    "sold": false,
+    "likes": 800,
+    "comments": [
+      {
+        "username": "beachlover",
+        "comment": "¡Qué playa más bonita!"
+      },
+      {
+        "username": "relax_time",
+        "comment": "¡Increíble vista!"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "image": [
+      "https://randomuser.me/api/portraits/men/10.jpg",
+      "https://randomuser.me/api/portraits/men/10.jpg",
+      "https://randomuser.me/api/portraits/men/10.jpg"
+    ],
+    "title": "Carlos explorando la ciudad",
+   "user":"John Doe",
+    "userAvatar": "https://randomuser.me/api/portraits/men/10.jpg",
+    "location": "Buenos Aires, Argentina",
+    "sold": false,
+    "likes": 1100,
+    "comments": [
+      {
+        "username": "citylover",
+        "comment": "¿Qué lugares visitaste?"
+      },
+      {
+        "username": "adventure_lover",
+        "comment": "¡Qué ganas de visitar Buenos Aires!"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "image": [
+      "https://images.pexels.com/photos/34950/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/34950/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/34950/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "title": "Explorando nuevos lugares",
+    "user":"John Doe",
+    "userAvatar": "https://randomuser.me/api/portraits/women/3.jpg",
+    "location": "Barcelona, Spain",
+    "sold": false,
+    "likes": 1800,
+    "comments": [
+      {
+        "username": "wanderlust",
+        "comment": "Barcelona is amazing!"
+      },
+      {
+        "username": "globetrotter",
+        "comment": "Can't wait to visit!"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "image": [
+      "https://images.pexels.com/photos/247932/pexels-photo-247932.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/247932/pexels-photo-247932.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/247932/pexels-photo-247932.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "title": "Descubriendo la ciudad eterna",
+    "user":"John Doe",
+    "userAvatar": "https://randomuser.me/api/portraits/men/5.jpg",
+    "location": "Rome, Italy",
+    "sold": false,
+    "likes": 1300,
+    "comments": [
+      {
+        "username": "history_buff",
+        "comment": "Rome is full of history!"
+      },
+      {
+        "username": "art_lover",
+        "comment": "The architecture is stunning!"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "image": [
+      "https://images.pexels.com/photos/1567069/pexels-photo-1567069.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1567069/pexels-photo-1567069.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1567069/pexels-photo-1567069.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "title": "Noche estrellada",
+    "user":"John Doe",
+    "userAvatar": "https://randomuser.me/api/portraits/women/6.jpg",
+    "location": "Atacama, Chile",
+    "sold": false,
+    "likes": 1050,
+    "comments": [
+      {
+        "username": "night_owl",
+        "comment": "The stars are so bright!"
+      },
+      {
+        "username": "astro_photographer",
+        "comment": "Perfect place for stargazing!"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "image": [
+      "https://images.pexels.com/photos/1032650/pexels-photo-1032650.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1032650/pexels-photo-1032650.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1032650/pexels-photo-1032650.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1032650/pexels-photo-1032650.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "title": "Día de playa",
+    "user":"John Doe",
+    "userAvatar": "https://randomuser.me/api/portraits/women/8.jpg",
+    "location": "Cancún, Mexico",
+    "sold": false,
+    "likes": 5200,
+    "comments": [
+      {
+        "username": "sunseeker",
+        "comment": "Cancún is paradise!"
+      },
+      {
+        "username": "beach_bum",
+        "comment": "Love the turquoise water!"
+      }
+    ]
+  }
+]
